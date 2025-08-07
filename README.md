@@ -1,6 +1,6 @@
 <!-- Tech Background Banner -->
 <p align="center">
-  <img src="https://i.imgur.com/qhDuNBN.png" alt="Tech Banner" width="100%" height="50%" />
+  <img src="background.jpg" alt="Tech Banner" width="100%" height="40%" />
 </p>
 
 <!-- Animated Header Text -->
@@ -9,7 +9,7 @@
 </h1>
 
 <h3 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=F76F36&center=true&vCenter=true&width=450&lines=Software+Developer+%7C+Full+Stack+Web+Developer+%7C+Tech+Enthusiast" alt="Typing Role" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=F76F36&center=true&vCenter=true&width=400&lines=Software+Developer+%7C+Full+Stack+Web+Developer+%7C+Tech+Enthusiast" alt="Typing Role" />
 </h3>
 
 ---
