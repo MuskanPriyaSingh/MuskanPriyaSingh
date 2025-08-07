@@ -1,47 +1,49 @@
-<h1 align="center">Hi 👋, I'm Muskan Priya</h1>
-<h3 align="center">Aspiring Software Developer | Web Developer | Tech Enthusiast</h3>
-
-- 🎓 B.Tech in Computer Science & Engineering (2021–2025)
-- 💼 Looking for Software Development and Web Development opportunities
-- 🌱 I’m currently enhancing my skills in **React, Node.js, and DSA**
-- 🛠️ Technologies: Java, Python, HTML, CSS, JavaScript, MySQL, React.js, Node.js
-- 📫 How to reach me: **muskanpriya610@gmail.com**
-
-### 📌 Featured Projects
-
-- 🔐 [Secure LinkedIn Clone](https://github.com/MuskanPriyaSingh/LinkedIn_Clone_Project)
-- 🤖 [EchoBot – AI Chatbot](https://github.com/MuskanPriyaSingh/echo_bot)
-- 🕵️‍♀️ [SmartPresence – AI Attendance System](https://github.com/MuskanPriyaSingh/SmartPresence)
-
-### 📈 GitHub Stats
-
+<!-- Tech Background Banner -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MuskanPriyaSingh&show_icons=true&theme=tokyonight" alt="Muskan Priya's GitHub stats" />
+  <img src="https://i.imgur.com/qhDuNBN.png" alt="Tech Banner" width="100%" />
 </p>
 
+<!-- Animated Header Text -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Muskan+Priya" alt="Typing SVG" />
+</h1>
+
+<h3 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=F76F36&center=true&vCenter=true&width=450&lines=Software+Developer+%7C+Full+Stack+Web+Developer+%7C+Tech+Enthusiast" alt="Typing Role" />
+</h3>
+
+---
+
+## 👩‍💻 About Me
+
+- 🎓 Completed **B.Tech in Computer Science & Engineering** (2021–2025)
+- 💡 Passionate about **Web Development**, **Software Engineering**, and **Machine Learning**
+- 💼 Exploring full-stack development and real-world AI integration
+- 🌱 Learning **Advanced React**, **Node.js**, and **MongoDB**
+- ✨ Open to opportunities in **Software Development** and **Internships**
+
+---
+
+## 🛠️ Tech Stack
+
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MuskanPriyaSingh&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,mongodb,c,java,python,mysql,tailwind,git,github,vscode" />
 </p>
 
 ---
 
-### 🔗 Connect with me
+## 📫 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/muskan-priya-ba681a245/)
-[![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github)](https://github.com/MuskanPriyaSingh)
+<p align="center">
+  <a href="mailto:muskanpriya610@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/muskan-priya-ba681a245/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"></a>
+  <a href="https://github.com/MuskanPriyaSingh"><img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"></a>
+</p>
 
+---
 
-<!--
-**MuskanPriyaSingh/MuskanPriyaSingh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=MuskanPriyaSingh&label=Profile%20views&color=0e75b6&style=flat" alt="MuskanPriyaSingh" />
+</p>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">🛠️ Built with ❤️ by <b>Muskan Priya</b></p>
