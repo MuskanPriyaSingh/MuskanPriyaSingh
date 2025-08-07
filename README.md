@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="bg_img.webp" alt="Tech Banner" width="100%" />
+</p>
+
 <h1 align="center">Hi 👋, I'm Muskan Priya</h1>
 <h3 align="center">Software Developer | Full Stack Web Developer | Tech Enthusiast</h3>
 
