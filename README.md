@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="bg_img.webp" alt="Tech Banner" width="100%" height="60%" />
+  <img src="bg_img.webp" alt="Tech Banner" width="100%" height="200px" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Muskan Priya</h1>
