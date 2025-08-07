@@ -1,6 +1,6 @@
 <!-- Tech Background Banner -->
 <p align="center">
-  <img src="https://i.imgur.com/qhDuNBN.png" alt="Tech Banner" width="100%" />
+  <img src="https://i.imgur.com/qhDuNBN.png" alt="Tech Banner" width="100%" height="50%" />
 </p>
 
 <!-- Animated Header Text -->
