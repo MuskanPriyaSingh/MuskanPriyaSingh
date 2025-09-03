@@ -16,7 +16,7 @@
 - 🎓 Completed **B.Tech in Computer Science & Engineering** (2021–2025)
 - 💡 Passionate about **Web Development**, **Software Engineering**, and **Machine Learning**
 - 💼 Currently exploring full-stack development and real-world AI integration
-- 🌱 Learning **Advanced React**, **Node.js**, and **MongoDB**
+- 🌱 Learning **Advanced React**, **Node.js**, **Express.js**, and **MongoDB**
 - ✨ Open to opportunities in **Software Development**, **Web Development**, and **Internships**
 
 ---
