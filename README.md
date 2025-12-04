@@ -43,22 +43,6 @@
 
 ---
 
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MuskanPriyaSingh&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=MuskanPriyaSingh&theme=radical&hide_border=false" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuskanPriyaSingh&layout=compact&theme=radical" />
-</p>
-
----
-
 ### 📫 Connect with Me
 
 <p align="center">
